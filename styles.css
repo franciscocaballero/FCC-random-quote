@@ -1,7 +1,12 @@
+body {
+  background-image: url(images/space.jpg)
+}
 .quote-box{
+margin-top: 50px;
   padding-top: 25px;
   padding-bottom: 45px;
-  background-color: grey;
+  background-color: transparent;
   border: 2px solid black;
+  color: white;
 
 }
